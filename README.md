@@ -1,4 +1,5 @@
 # Red-Color-Tracking
 A simple code to track any color with using opencv and a camera. In this example, red color is used.
 
-![demo](https://user-images.githubusercontent.com/111835151/186222396-306e916a-a6fb-4624-9e99-dcc9ea68db64.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/111835151/186226811-89f04042-1dfa-47fc-855f-7326bc366f4b.gif)
